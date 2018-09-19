@@ -1,0 +1,136 @@
+
+<link href="https://fonts.googleapis.com/css?family=Dawning+of+a+New+Day" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Abril+Fatface" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Bevan" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Poor+Story" rel="stylesheet">
+
+.wel{
+    color:white;
+}
+
+#bartest{
+    color:white;
+    background-color: black;
+    width:100%;
+    height:120px;
+    font-weight: normal;
+    font-size: 200%;
+}
+
+#bartest a:hover{
+    color:gainsboro;
+}
+
+.tagg{
+    color:white;
+    padding:0px 0px 100px 30px;
+    font-family: 'Poor Story', cursive;
+}
+
+.tag{
+    font-size:80%;
+    color:white;
+    padding: 0px 20px 30px 1000px;
+}
+.tag a:hover{
+    font-size:110%;
+}
+#fix{
+    position: fixed;
+}
+
+
+#topbar{
+    color:black;
+    font-size:100%;
+    font-family: 'Dawning of a New Day', cursive;
+    text-align:left;
+    margin:0 auto;        
+}
+
+.clear{
+    clear:both;
+}
+
+
+#titlebar{
+    background-color:blue;
+    height:70px;
+    width: 100%;
+}
+
+#titletext{
+    color:white;
+    float:left;
+    font-size: 300%;
+    font-weight: normal;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+#titlebar a:hover{
+    text-decoration: none;
+    color:gainsboro;
+}
+
+
+#blackbar{
+    position:fixed;
+    width:100%;
+}
+
+#tagsbar{
+    height:40px;
+    width:110%;
+    background-color:black;
+    padding-left: 900px;
+    margin-right: 400px;
+}
+
+#tagsbar a:hover{
+    color:gainsboro;
+    font-size:150%;
+}
+
+.tags{
+    color:white;
+    font-family: 'Poor Story', cursive;
+    font-size: 110%;
+    margin:0 auto;
+    padding: 0px 20px 30px 35px;
+}
+
+#lk{
+    font-style: italic;
+}
+                
+#gt{
+    font-style: italic;
+}
+
+#line{
+    margin-top:800px;
+}
+.links{
+    padding-bottom: 10px;
+    font-family: Tahoma, Geneva, sans-serif;
+}
+
+.links a:hover{
+    text-decoration: underline;
+}
+                
+a{
+    text-decoration: none;
+}
+
+#l{
+    color:white;
+}
+
+#g{
+    color:white;
+}
+              
